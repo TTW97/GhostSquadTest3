@@ -890,7 +890,7 @@ function turn() {
 
 function move() {
 
-  if (keyWentDown('u')) {
+  if (keyWentDown('w')) {
 
     endturnlock = 1;
 
@@ -931,7 +931,7 @@ function move() {
 
   }
 
-  if (keyWentDown('d')) {
+  if (keyWentDown('s')) {
 
     endturnlock = 1;
 
@@ -974,7 +974,7 @@ function move() {
 
   }
 
-  if (keyWentDown('r')) {
+  if (keyWentDown('d')) {
 
     endturnlock = 1;
 
@@ -1015,7 +1015,7 @@ function move() {
 
   }
 
-  if (keyWentDown('l')) {
+  if (keyWentDown('a')) {
 
     endturnlock = 1;
 
